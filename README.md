@@ -3,9 +3,9 @@ A bot posting a message to Slack with Amazon Dash Button.
 
 ## Getting Started
 Set the following environment variables in `.env` file.
-- MAC_ADDRESS: media access control address(MAC address) of your dash button. See [node-dash-button](https://github.com/hortinstein/node-dash-button#find-a-dash) to find a dash button on your network
-- BOT_TOKEN: follow the official instraction [here](https://api.slack.com/bot-users).
-- CHANNEL_ID: Slack channel id of which you want to post a text to.
+- `MAC_ADDRESS`: media access control address(MAC address) of your dash button. See [node-dash-button](https://github.com/hortinstein/node-dash-button#find-a-dash) to find a dash button on your network
+- `BOT_TOKEN`: follow the official instraction [here](https://api.slack.com/bot-users).
+- `CHANNEL_ID`: Slack channel id of which you want to post a text to.
 
 Then run the following:
 
