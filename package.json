@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@slack/client": "^4.5.0",
+    "dotenv": "^6.0.0",
     "node-dash-button": "^0.6.1"
   }
 }
